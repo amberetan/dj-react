@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dj-react/static/css/main.2c3d8f90.chunk.css",
+    "main.js": "/dj-react/static/js/main.7838ce86.chunk.js",
+    "main.js.map": "/dj-react/static/js/main.7838ce86.chunk.js.map",
+    "runtime-main.js": "/dj-react/static/js/runtime-main.e839e02c.js",
+    "runtime-main.js.map": "/dj-react/static/js/runtime-main.e839e02c.js.map",
+    "static/js/2.f35c32fe.chunk.js": "/dj-react/static/js/2.f35c32fe.chunk.js",
+    "static/js/2.f35c32fe.chunk.js.map": "/dj-react/static/js/2.f35c32fe.chunk.js.map",
+    "index.html": "/dj-react/index.html",
+    "static/css/main.2c3d8f90.chunk.css.map": "/dj-react/static/css/main.2c3d8f90.chunk.css.map",
+    "static/js/2.f35c32fe.chunk.js.LICENSE.txt": "/dj-react/static/js/2.f35c32fe.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/dj-react/static/media/record.8136bf07.jpeg",
+    "static/media/cowbell.8a843f87.wav": "/dj-react/static/media/cowbell.8a843f87.wav",
+    "static/media/crashbell.a374fa15.wav": "/dj-react/static/media/crashbell.a374fa15.wav",
+    "static/media/drumloop.8542b450.wav": "/dj-react/static/media/drumloop.8542b450.wav",
+    "static/media/highhatbeat.be09f6bb.wav": "/dj-react/static/media/highhatbeat.be09f6bb.wav",
+    "static/media/samba.7f61b79d.wav": "/dj-react/static/media/samba.7f61b79d.wav",
+    "static/media/scratch.507a778a.wav": "/dj-react/static/media/scratch.507a778a.wav",
+    "static/media/scratch3.9f46d21c.wav": "/dj-react/static/media/scratch3.9f46d21c.wav",
+    "static/media/techno.f20045f3.wav": "/dj-react/static/media/techno.f20045f3.wav",
+    "static/media/technohit.a007fcb1.wav": "/dj-react/static/media/technohit.a007fcb1.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e839e02c.js",
+    "static/js/2.f35c32fe.chunk.js",
+    "static/css/main.2c3d8f90.chunk.css",
+    "static/js/main.7838ce86.chunk.js"
+  ]
+}
